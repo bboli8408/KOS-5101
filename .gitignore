@@ -213,3 +213,5 @@ dif/stan_models/rasch_1pl.exe
 dif/stan_models/dif_rasch.exe
 homeworks/compare_means_equal_std.exe
 homeworks/compare_means_equal_std.stan
+irt/rasch_known_item_ability.exe
+irt/rasch_known_item_ability.stan
